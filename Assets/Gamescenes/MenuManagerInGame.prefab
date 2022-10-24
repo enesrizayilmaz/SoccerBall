@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1555437932026568501
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1555437932026568491}
+  - component: {fileID: 1555437932026568490}
+  - component: {fileID: 1555437932026568488}
+  m_Layer: 0
+  m_Name: MenuManagerInGame
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1555437932026568491
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1555437932026568501}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 696.24414, y: 622.2124, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1555437932026568490
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1555437932026568501}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87eff3d4ccd82544cb4f882fbaa2a734, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slManager: {fileID: 0}
+  inGameScreen: {fileID: 0}
+  pauseScreen: {fileID: 0}
+  deathScreen: {fileID: 0}
+  heart1: {fileID: 0}
+  heart2: {fileID: 0}
+  heart3: {fileID: 0}
+  skor: 0
+--- !u!114 &1555437932026568488
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1555437932026568501}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58f81abcf0e1bf3479a091c05e3f93c6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  "sar\u0131kart": {fileID: 4171556979473883842, guid: 1db766d911964014a94d65e5f64f964d, type: 3}
+  gameover: {fileID: 0}
+  "z\u0131plama": {fileID: 0}
+  button: {fileID: 0}
+  kirmizikart: {fileID: 7107903016494285505, guid: 9acd9b65a92f7364ca44d65769e36267, type: 3}
+  seskapali: {fileID: 7624035699317130590, guid: 2676ff5c94fc9f1489d59bf570d079e3, type: 3}
+  sesacik: {fileID: -7747287092744849336, guid: 2676ff5c94fc9f1489d59bf570d079e3, type: 3}
+  "seskapand\u0131": 0

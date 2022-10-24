@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 88883b5ce06182944a6330fa63703c9d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - kayitekrani: {fileID: 9174793096202706668, guid: 17be2ca94bb3f33488c91dea7f173f70, type: 3}
+  - oyunekrani: {fileID: 4987911109892297392, guid: b2d88680c247a744ba3dfc8256f51e9f, type: 3}
+  - "scoreboardekran\u0131": {fileID: 5041677046568502223, guid: 9039f695baf10c04aa630d605baeca9b, type: 3}
+  - "menuekran\u0131": {fileID: 2410739868274768784, guid: 716a51dd8cc786e44a7af3ab7bfada46, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

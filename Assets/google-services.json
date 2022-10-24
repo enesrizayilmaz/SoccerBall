@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "52142003576",
+    "firebase_url": "https://soccer-ball-ae1c5-default-rtdb.firebaseio.com",
+    "project_id": "soccer-ball-ae1c5",
+    "storage_bucket": "soccer-ball-ae1c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52142003576:android:739ddbbc04f0e93bf8248d",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.SoccerBall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "52142003576-vtc0d7eapk58eqf7u5tocsuro8q29pl9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9YmfWyYYoCmyTX4Ju4SN5LZsKVTkNBPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "52142003576-vtc0d7eapk58eqf7u5tocsuro8q29pl9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

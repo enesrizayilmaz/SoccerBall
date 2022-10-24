@@ -1,0 +1,24 @@
+{ "pid": "BuildProgram", "ph":"M", "name": "process_name", "args": {"name": "BuildProgram"} },
+{ "pid": "BuildProgram", "ph":"M", "name": "process_sort_index", "args": {"sort_index": -1} },
+{ "pid": "BuildProgram", "tid": 1, "ph":"M", "name": "thread_name", "args": {"name": ""} },
+{ "pid": "BuildProgram", "tid": 1,"ts": 1085807293463.5,"dur": 504510.3, "ph":"X", "name": "BuildProgram"},
+{ "pid": "BuildProgram", "tid": 1,"ts": 1085807293685.2,"dur": 62255.4, "ph":"X", "name": "BuildProgramContextCCtor"},
+{ "pid": "BuildProgram", "tid": 1,"ts": 1085807567980.3,"dur": 122478.2, "ph":"X", "name": "SetupSpecificConfigImpl libil2cpp", "args": { "detail": "release_Android_arm32"}
+},
+{ "pid": "BuildProgram", "tid": 1,"ts": 1085807576590.8,"dur": 92026.9, "ph":"X", "name": "SetupSpecificConfigImpl il2cpp", "args": { "detail": "release_Android_arm32"}
+},
+{ "pid": "BuildProgram", "tid": 1,"ts": 1085807577746.2,"dur": 57321.7, "ph":"X", "name": "SetupSpecificConfigImpl bdwgc", "args": { "detail": "release_Android_arm32"}
+},
+{ "pid": "BuildProgram", "tid": 1,"ts": 1085807635111.4,"dur": 3151, "ph":"X", "name": "SetupSpecificConfigImpl zlib", "args": { "detail": "release_Android_arm32"}
+},
+{ "pid": "BuildProgram", "tid": 1,"ts": 1085807695644.9,"dur": 27044.7, "ph":"X", "name": "SetupSpecificConfigImpl libil2cpp", "args": { "detail": "release_Android_arm64"}
+},
+{ "pid": "BuildProgram", "tid": 1,"ts": 1085807695690.5,"dur": 20749.5, "ph":"X", "name": "SetupSpecificConfigImpl il2cpp", "args": { "detail": "release_Android_arm64"}
+},
+{ "pid": "BuildProgram", "tid": 1,"ts": 1085807695813.5,"dur": 336.3, "ph":"X", "name": "SetupSpecificConfigImpl bdwgc", "args": { "detail": "release_Android_arm64"}
+},
+{ "pid": "BuildProgram", "tid": 1,"ts": 1085807696158.1,"dur": 989.9, "ph":"X", "name": "SetupSpecificConfigImpl zlib", "args": { "detail": "release_Android_arm64"}
+},
+{ "pid": "BuildProgram", "tid": 1,"ts": 1085807774752.4,"dur": 477.8, "ph":"X", "name": "OutputData.Write"},
+{ "pid": "BuildProgram", "tid": 1,"ts": 1085807775230.9,"dur": 22741.3, "ph":"X", "name": "Backend.Write"},
+{ "pid": "BuildProgram", "tid": 1,"ts": 1085807776139.2,"dur": 17648.3, "ph":"X", "name": "JsonToString"},

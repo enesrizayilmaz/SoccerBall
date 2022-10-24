@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7669898980381704892
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7669898980381704893}
+  - component: {fileID: 7669898980381704894}
+  m_Layer: 0
+  m_Name: Objeolustur
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7669898980381704893
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7669898980381704892}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -9.45, y: -1.17, z: -3.0249784}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7669898980381704894
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7669898980381704892}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b408147454b6f6449acd3c389a5fac80, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sari: {fileID: 1177920378346032557, guid: 4db95c642b7f6804599bd5d5aeb92d73, type: 3}
+  arkaplan1: {fileID: 0}
+  yer1: {fileID: 0}
+  kullaniciadi_IF: {fileID: 3201035480956523429, guid: 76e67d1a25e50c344a848a936d5de19d, type: 3}
+  yer2: {fileID: 0}
+  slmanager: {fileID: 0}
+  skoryer200: {fileID: 21300000, guid: 1f8edb88594ffa14698fb2b795cba7a8, type: 3}
+  skoryer500: {fileID: 21300000, guid: a53ce38e16994ab4b9b9ec00f883f315, type: 3}
+  skoryer1000: {fileID: 21300000, guid: d56c9371e7644c44db575395944a2324, type: 3}
+  skor100: {fileID: 21300000, guid: 78c6401607ce2d64ba7eee1996b257cc, type: 3}
+  skor200: {fileID: 21300000, guid: 6a36ec9e40cf64246a2519e2a63732ff, type: 3}
+  skor500: {fileID: 21300000, guid: 5aa0d47f7eb2c914aa172579da4a2278, type: 3}
+  skor1000: {fileID: 21300000, guid: 9fb486d336070b743940672f904cf66e, type: 3}
+  kirmizi: {fileID: 9104822552075958638, guid: f7ac0e711d4b4504bb3abd1f8365f95b, type: 3}
+  yildiz: {fileID: 640782310022828254, guid: 95c6169b15c820a47912ed4b88769023, type: 3}
+  diken: {fileID: 8648729926629014766, guid: a1e83dc57f964fc448ea43f064c968c0, type: 3}
+  can: {fileID: 7094705876252360100, guid: 980257e722c0e7340a994cf820cda755, type: 3}
+  slManager: {fileID: 0}
+  Scoree: {fileID: 0}
+  HigScoree: {fileID: 0}
+  oyuncu: {fileID: 0}
