@@ -2,7 +2,7 @@
 
 
 
-<img src="https://i.ibb.co/Dr8yD5v/picture1.jpg" style = "margin-right:10px" alt="picture1"  width="400" height="200"/>
+<img src="https://i.ibb.co/Dr8yD5v/picture1.jpg" style = "margin-right:5px" alt="picture1"  width="400" height="200"/>
 <img src="https://i.ibb.co/Dg9XmZ2/unnamed-1.jpg" alt="picture2" width="400" height="200" />
 
 
