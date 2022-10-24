@@ -2,7 +2,7 @@
 
 
 <p>
-<img src="https://i.ibb.co/Dr8yD5v/picture1.jpg" alt="picture1"  width="400" height="200"/>
+<img src="https://i.ibb.co/Dr8yD5v/unnamed.jpg" alt="picture1"  width="400" height="200"/>
 &emsp;&emsp;&emsp;&emsp;
 <img src="https://i.ibb.co/Dg9XmZ2/unnamed-1.jpg" alt="picture2" width="400" height="200" />
 </p>
@@ -13,7 +13,7 @@
 - It was designed on Unity with C#.
 - The game is 2D.
 - Real time operations and authentication systems were made with Firebase systems.
-
+<img src="https://i.ibb.co/nf8Q03Y/unnamed-2.jpg" alt="unnamed-2"  width="400" height="200" /></a>
 
 
 ## Gameplay
