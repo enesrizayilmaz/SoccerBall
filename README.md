@@ -1,10 +1,9 @@
 # What is Soccer Ball?
 
 <div>
-<div style = "margin:10px>
-<img src="https://i.ibb.co/Dr8yD5v/picture1.jpg" alt="picture1" border="0" width="400" height="200"/>
-</div>
-<img src="https://i.ibb.co/Dg9XmZ2/unnamed-1.jpg" alt="picture2" border="0"width="400" height="200" />
+
+<img src="https://i.ibb.co/Dr8yD5v/picture1.jpg" style = "margin:10px" alt="picture1"  width="400" height="200"/>
+<img src="https://i.ibb.co/Dg9XmZ2/unnamed-1.jpg" style = "margin:10px" alt="picture2" width="400" height="200" />
 </div>
 
 ## Technical Equipment
