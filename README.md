@@ -8,7 +8,7 @@
 - The game is 2D.
 - Real time operations and authentication systems were made with Firebase systems.
 
-<img src=https://ibb.co/hYZjRD4 />
+<img src="https://i.ibb.co/Dr8yD5v/picture1.jpg" alt="picture1" border="0" /></a>
 
 ## Gameplay
 
