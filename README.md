@@ -2,6 +2,7 @@
 
 <p>
 <img src="https://i.ibb.co/Dr8yD5v/picture1.jpg" alt="picture1" border="0" width="400" height="200"/></a>
+<br><br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Dg9XmZ2/unnamed-1.jpg" alt="picture2" border="0"width="400" height="200" /></a>
 </p>
 ## Technical Equipment
