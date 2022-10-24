@@ -1,8 +1,8 @@
 # What is Soccer Ball?
 
 <p align :justify>
-<img src="https://i.ibb.co/Dr8yD5v/picture1.jpg" alt="picture1" border="0" /></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/Dg9XmZ2/unnamed-1.jpg" alt="unnamed-1" border="0" /></a>
+<img src="https://i.ibb.co/Dr8yD5v/picture1.jpg" alt="picture1" border="0" width="300" height="300"/></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Dg9XmZ2/unnamed-1.jpg" alt="picture2" border="0"width="300" height="300" /></a>
 </p>
 ## Technical Equipment
 
