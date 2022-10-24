@@ -8,7 +8,7 @@
 </p>
 
 
-## Technical Equipment
+## Software
 
 - It was designed on Unity with C#.
 - The game is 2D.
