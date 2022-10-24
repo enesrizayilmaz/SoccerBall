@@ -1,6 +1,5 @@
 # What is Soccer Ball?
-<img 
-<a href="https://imgbb.com/"> border="0" /></a>
+
 <p>
 <img src="https://i.ibb.co/kH3870y/68747470733a2f2f692e6962622e636f2f446739586d5a322f756e6e616d65642d312e6a7067.jpg" alt="68747470733a2f2f692e6962622e636f2f446739586d5a322f756e6e616d65642d312e6a7067" alt="picture1"  width="400" height="200"/>
 &emsp;&emsp;&emsp;&emsp;
