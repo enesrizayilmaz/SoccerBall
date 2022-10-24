@@ -22,7 +22,7 @@
 - You can see your worldwide score on the scoreboard.
 - You can change the appearance of the balls.
 <br>
-<img src="https://i.ibb.co/nf8Q03Y/unnamed-2.jpg" alt="unnamed-2"  width="400" height="200" /></a>
+<img src="https://i.ibb.co/nf8Q03Y/unnamed-2.jpg" style="align: center" alt="unnamed-2"  width="400" height="200" /></a>
 
 
 
