@@ -1,13 +1,22 @@
-# Soccer Ball Nedir ?
+# What is Soccer Ball?
 
-- Oyunda 3 hakkınız vardır.
-- Ekranda belirlenen engellerin üzerinden atlayarak skorunuzu arttırmak üzerine kurulmuş bir oyundur.
-- Puan tablosu üzerinde Türkiye çapında skorunuzu görebilirsiniz.
-- Topların görünüşlerini değiştirebilirsiniz.
 
-## Teknik Donanım
 
-- C# ile Unity üzerinde tasarlanmıştır.
-- Oyun 2D'dir.
-- Firebase sistemleriyle real time operasyonları ve authentication sistemleri yapılmıştır.
+## Technical Equipment
+
+- It was designed on Unity with C#.
+- The game is 2D.
+- Real time operations and authentication systems were made with Firebase systems.
+
+<img src=https://ibb.co/hYZjRD4 />
+
+## Gameplay
+
+- You have 3 hearts in the game.
+- It is a game based on increasing your score by jumping over the obstacles set on the screen.
+- You can see your worldwide score on the scoreboard.
+- You can change the appearance of the balls.
+
+
+
 
