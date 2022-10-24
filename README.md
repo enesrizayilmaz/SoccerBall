@@ -13,6 +13,7 @@
 - It was designed on Unity with C#.
 - The game is 2D.
 - Real time operations and authentication systems were made with Firebase systems.
+<br>
 <img src="https://i.ibb.co/nf8Q03Y/unnamed-2.jpg" alt="unnamed-2"  width="400" height="200" /></a>
 
 
